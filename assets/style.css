@@ -35,3 +35,5 @@ p {
     border: 5px solid rgb(148, 9, 148);
     box-shadow: 5px 10px #f130ee;
   }
+  const shapes = ["triangle", "square", "pentagon", "circle"];
+console.log(shapes[0]);
